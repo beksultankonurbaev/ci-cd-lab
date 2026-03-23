@@ -15,6 +15,9 @@ jobs:
       - name: Текшерүү
         run: echo "Файл текшерилди"
 
+      - name: Test
+        run: echo "Тест ийгиликтүү өттү"
+
       - name: Build
         run: echo "Проект жыйналды"
 
